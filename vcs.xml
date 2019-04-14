@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/rahulpasricha/registration-web" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/rafadelnero/javaworld-challengers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/DHL/holidayws" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Learning/Java" />
   </component>
 </application>
