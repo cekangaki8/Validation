@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/PacktPublishing/Mastering-Spring-5.0" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:threerings/getdown-testapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Learning/springcloud/cloudnative" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Learning" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
