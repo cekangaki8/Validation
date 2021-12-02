@@ -34,18 +34,12 @@
           <option name="url" value="https://github.com/eugenp/REST-With-Spring.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PacktPublishing/Hands-On-Cloud-Native-Applications-with-Java-and-Quarkus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Learning/Spring" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
-      </list>
-    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Learning/quarkus/Hands-on-cloud-native-application-with-java-quarkus" />
   </component>
 </application>
