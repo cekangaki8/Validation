@@ -1,7 +1,7 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="h2.unified">
-      <artifact id="H2" name="H2" use="true" version="1.4.196" />
+      <artifact id="H2" name="H2" use="true" version="1.4.200" />
     </driver>
     <driver id="azure.ms">
       <option name="auto-sync" value="false" />
