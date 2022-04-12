@@ -4,7 +4,7 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://www.agiledeveloper.com" />
-          <option name="userName" value="devnexus2017" />
+          <option name="userName" value="devnexus2022" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/rahulpasricha/registration-web" />
@@ -38,8 +38,12 @@
           <option name="url" value="https://github.com/PacktPublishing/Hands-On-Cloud-Native-Applications-with-Java-and-Quarkus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://www.agiledeveloper.com/repos/git/devnexus2022" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Learning/quarkus/Hands-on-cloud-native-application-with-java-quarkus" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Learning/Devnexus2021" />
   </component>
 </application>
