@@ -1,11 +1,10 @@
 <application>
   <component name="GithubAccounts">
-    <account id="c8878854-2088-4956-9775-3af9211ba91a" name="cekangaki8">
+    <account name="cekangaki8" id="c8878854-2088-4956-9775-3af9211ba91a">
       <server host="github.com" />
     </account>
-  </component>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="cekangaki8" />
-    <option name="AUTH_TYPE" value="BASIC" />
+    <account name="cekangak" id="d5057bec-f2e4-48e9-af27-1ecfc3adec73">
+      <server useHttp="false" host="git.dhl.com" />
+    </account>
   </component>
 </application>
