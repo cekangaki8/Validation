@@ -7,7 +7,8 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="mysql.8">
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
     <driver id="oracle">
       <option name="auto-sync" value="false" />
